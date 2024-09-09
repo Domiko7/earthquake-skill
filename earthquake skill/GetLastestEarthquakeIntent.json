@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "name": "GetLatestEarthquakeIntent",
+      "slots": [],
+      "samples": [
+        "tell me about the latest earthquake",
+        "what was the last earthquake",
+        "last earthquake",
+        "recent earthquake"
+      ]
+    },
+    {
+      "name": "GetBiggestEarthquakeIntent",
+      "slots": [],
+      "samples": [
+        "what was the biggest earthquake this week",
+        "tell me the largest earthquake this week",
+        "largest earthquake this week",
+        "biggest earthquake this week"
+      ]
+    }
+  ]
+}
